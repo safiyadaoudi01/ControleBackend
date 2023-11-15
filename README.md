@@ -3,13 +3,13 @@
   Base de donne:
 
 
- 
-![Screenshot 2023-11-15 191547](https://github.com/safiyadaoudi01/controle/assets/120654774/ce3087af-263e-4b32-81a1-c84de96bc05a)
+![bdd](https://github.com/safiyadaoudi01/ControleBackend/assets/120654774/a04d0797-507f-4b81-aade-239c440eba34)
+
 
 
 Swagger
 
 
-![image](https://github.com/safiyadaoudi01/controle/assets/120654774/0ebc69fb-21fc-4bd6-97e6-fcf1c40d36e1)
+![Screenshot 2023-11-06 181336](https://github.com/safiyadaoudi01/ControleBackend/assets/120654774/b28db432-7848-4547-a3f5-be036da2c3bb)
 
 
